@@ -1,0 +1,50 @@
+quan ly ban hang
+-nhan vien
+
+quan ly nhan vien
+-nhan vien 
+ngay sinh
+ten 
+luong 
+
+
+-hang hoa
+ten san pham
+ma san pham/ id
+gia ban
+ gia mua
+ngay nhap/ xuat
+nsx/ hsd
+noi san xuat
+
+-quan ly san pham
+slg trong kho
+slg da ban
+slg nhap
+
+-khach hang
+ten khach hang
+ ngay mua
+-quan ly khach hang
+xem lich su mua hang
+
+- hoa don
+ngay
+ng mua
+ng lap hoa don
+
+
+danh sach chi tiet hoa don
+-chi tiet hoa don
+san pham
+so luong 
+
+
+xuat: xuat hoa don
+dang nhap
+them, sua, xoa, cap nhap, 
+tim kiem
+(san pham: theo ten, theo id, ngay thang, gia tien;
+nhan vien: theo ten) 
+
+

@@ -1,0 +1,16 @@
+tên hàng hóa
+loại hàng hóa
+số lượng
+ngày nhập/ngày xuất
+ngày sản xuẩt/ hạn sử dụng
+giá hàng hóa
+giá nhập 
+giá bán
+tên người mua
+tên người bán
+thông tin người bán ( ngày sinh, địa chỉ, sdt, ngày làm ) cần có quyền truy cập của người quản lý
+
+mã hàng hóa
+mô tả hàng hóa
+thời gian bán(ngày - giờ)
+trạng thái hàng hóa

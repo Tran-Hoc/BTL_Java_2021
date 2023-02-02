@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bài tập Lớn Java.iml" filepath="$PROJECT_DIR$/Bài tập Lớn Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KetNoiCSDL/KetNoiCSDL.iml" filepath="$PROJECT_DIR$/KetNoiCSDL/KetNoiCSDL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Newtest/Newtest.iml" filepath="$PROJECT_DIR$/Newtest/Newtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing/Swing.iml" filepath="$PROJECT_DIR$/Swing/Swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tetss/Tetss.iml" filepath="$PROJECT_DIR$/Tetss/Tetss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lop/lop.iml" filepath="$PROJECT_DIR$/lop/lop.iml" />
+    </modules>
+  </component>
+</project>

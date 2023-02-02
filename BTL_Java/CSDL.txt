@@ -1,0 +1,25 @@
+Nhân viên
+tên
+sdt
+email
+mã nhân viên id (tự động tăng, bắt buộc)
+
+Hàng hóa
+Tên hàng
+Loại hàng
+Số lượng
+Ngày nhập
+Mã hàng
+
+Khách hàng
+Tên khách hàng
+Mã khách hàng(tự động tăng, bắt buộc)
+Ngày mua(date)
+
+Hóa đơn
+Mã hóa đơn
+Ngày lập hóa đơn
+Liên kết với khách hàng, hàng hóa, nhân viên
+
+ Chi tiết hóa đơn
+

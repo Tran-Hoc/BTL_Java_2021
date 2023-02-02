@@ -1,0 +1,12 @@
+xuat: xuat hoa don
+dang nhap
+them, sua, xoa, cap nhap, 
+tim kiem
+(san pham: theo ten, theo id, ngay thang, gia tien;
+nhan vien: theo ten)
+
+NHANVIEN (MaNV, HoTenNV, SDT)
+KHACHHANG (MaKH, HoTenKH, DiaChi, SDT)
+HANG (MaH, TenH, GiaBan, SLTon, LoaiHang)
+HOADON (MaHD, Ngay, MaNV, MaKH)
+CHITIETHOADON (MaHD, MaH, SoLuong, ThanhTien)
